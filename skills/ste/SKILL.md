@@ -12,4 +12,5 @@ Target: $ARGUMENTS
 - A file path: read the file and show the rewritten text. Overwrite the file only when the user asks.
 - Empty: rewrite your previous reply.
 
+Apply every section of `rules.md`, even to non-technical text, because the user asked for the rewrite.
 Keep every fact, number, path, identifier, and code block. Change only the prose.

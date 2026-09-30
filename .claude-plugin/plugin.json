@@ -1,6 +1,6 @@
 {
   "name": "ste-ko",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Plain writing rules (ASD-STE100 based, Korean/English) injected into every session and subagent, plus /ste to rewrite text.",
   "author": {
     "name": "SeungHwan.Lee"

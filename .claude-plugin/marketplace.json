@@ -1,0 +1,14 @@
+{
+  "name": "ste-ko",
+  "description": "Personal marketplace for the ste-ko writing-rules plugin.",
+  "owner": {
+    "name": "SeungHwan.Lee"
+  },
+  "plugins": [
+    {
+      "name": "ste-ko",
+      "source": "./",
+      "description": "Plain writing rules (ASD-STE100 based, Korean/English) for every session and subagent."
+    }
+  ]
+}
